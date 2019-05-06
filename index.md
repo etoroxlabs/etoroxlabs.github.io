@@ -1,37 +1,105 @@
-## Welcome to GitHub Pages
+---
+layout: page
+---
 
-You can use the [editor on GitHub](https://github.com/etoroxlabs/etoroxlabs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Senior Software Developer</h1>
+**Apply before 31st of December 2019**. We accept applications and interview on a rolling basis.
+<br>
+<br>
+## Life at eToroX Labs
+<div class="row">
+  <div class="col-sm-6">
+    <p>
+      We are seeking senior software developers with experience or abilities in product and project management to join our team in Copenhagen. The team currently consists of four developers, some of us have an academic specialization at the level of a master’s degree, Ph.D. and postdoc - others are experienced in product development or work as full stack developers.
+    </p>
+    <p>
+      You will work primarily out of the danish offices in Copenhagen, but will have the opportunities (not a requirement) to travel and work from other branch offices such as Asia, China or within Europe on specific projects. We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products.
+      We work primarily on a project-oriented basis which can, occasionally, get hectic. For this reason, we value applicants who are ready and capable to take initiative and end-to-end responsibility. 
+    </p>
+  </div>
+  <div class="col-sm-6">
+    <p>
+      Due to the innovative and research-based nature of our work, you will work side-by-side with academics from top research institutions and produce solutions at the bleeding edge of financial technologies. Working at eToroX Labs tends to be research intensive and thus requires the ability to absorb and apply large quantities of new knowledge, while running fast towards ambitious deadlines.
+    </p>
+    <p>
+      Needless to say, an analytical mindset and the termination to go above and beyond when solving difficult problems are highly valued.
+    </p>
+    <p>
+      We are closely connected to the Department of Computer Science at the University of Copenhagen, ITU and Copenhagen Business School and occasionally publish the results of our work in leading journals and conference proceedings. If you have considered a PhD or similar research position in distributed systems or equivalent, we are happy to help you towards this goal. For eligible candidates, we have the opportunity to offer Industrial PhD programmes. 
+    </p>
+  </div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
+<br>
 
-### Markdown
+<div class="row">
+  <div class="col-sm-6">
+    <h3>Responsibilities</h3>
+    <p>As a senior developer at eToroX labs, you will be faced with a number of challenges on a daily basis. Our work typically involves the following.</p>
+    <ul>
+      <li><p>Developing novel applications of blockchain technologies within fintech and open finance</p></li>
+      <li><p>Devising architectures of distributed systems</p></li>
+      <li><p>Keeping up to date with technological developments, evaluating and presenting their potential utility</p></li>
+      <li><p>Documenting features and design tradeoffs of proposed and implemented solutions</p></li>
+      <li><p>Contributing to a friendly atmosphere</p></li>
+    </ul>
+  </div>
+  <div class="col-sm-6">
+    <h3>Preferred qualifications</h3>
+    <p>To excel as a senior developer at eToroX Labs, the following qualifications are preferred.</p>
+    <ul>
+      <li><p>Experience with or interest in finance and trading systems</p></li>
+      <li><p>A passion for distributed computing and blockchain-related technologies</p></li>
+      <li><p>Strong proven programming experience</p></li>
+      <li><p>Experience with product development and understanding of the related business</p></li>
+      <li><p>Independent and self-motivated and able to quickly acquire new knowledge</p></li>
+      <li><p>Employs a rigorous and methodological approach to problem-solving</p></li>
+      <li><p>Experience with Blockchain/DLT and smart contracts is a plus</p></li>
+      <li><p>Strong English communication skills, both spoken and written</p></li>
+      <li><p>Social personality and enjoys working with others</p></li>
+    </ul>
+  </div>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+<br>
 
-```markdown
-Syntax highlighted code block
+## What is eToroX Labs?
+<div class="row">
+  <div class="col-sm-6">
+    <p>
+      eToroX Labs is a research and development arm of the international trading platform and multi-asset brokerage company, eToro. For over a decade, eToro has been driven by a clear vision: To open the global markets for everyone to trade and invest, in a simple and transparent way.
+    </p>
+    <p>
+      With the recent launch of the cryptocurrency exchange eToroX, eToro made another great leap towards introducing transparency and openness in financial markets. 
+    </p>
+  </div>
+  <div class="col-sm-6">
+    <p>
+      eToroX is a fully regulated cryptocurrency exchange featuring a number of tokenized digital assets tradeable on the blockchain. At eToroX, we believe that we will see the greatest transfer of wealth onto the blockchain within the coming years, and it is our mission to build the infrastructure supporting the open and transparent financial markets of the future. 
+    </p>
+  </div>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
+At eToroX Labs, our most recent releases includes:
 
-1. Numbered
-2. List
+* <p>The launch of 17 "stablecoins" assimilating 15 major currencies and two commodities for trade on the eToroX exchange. We are the only fintech institution that offers that amount of diversified assets.</p>
+* <p>Development of a formally verified contract language Lira for execution of derivative contracts on the Ethereum Blockchain. We recently presented that work on Ethereum DEVCON 5 and open sourced the language </p>
+* <p>First to provide specification and implementation for tokenization (eToken) on Facebook's network Libra.</p>
 
-**Bold** and _Italic_ and `Code` text
+<br>
+<br>
 
-[Link](url) and ![Image](src)
-```
+## Get in touch!
+Reach out to [omri@etorox.com](mailto:omri@etorox.com), [johannes@etorox.com](mailto:johannes@etorox.com) or [peterje@etorox.com](mailto:peterje@etorox.com) with an application. Please write a few lines about yourself and attach an updated copy of your CV. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you have worked in a similar research intensive environment, where you have proven yourself by thinking on your feet and solving advanced problems in a field that was new to you, please do impress us by telling us about it. This could be from working in a start-up or in a similar position in which you acquired product ownership responsibilities. 
 
-### Jekyll Themes
+We welcome applications from candidates with good academic credentials or a proven track record of success, in fintech or related fields, but do not discriminate significantly on the background of grades if you can show us your secret power and you walk us through a your approach to problem solving. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etoroxlabs/etoroxlabs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+eToro is proud to be an equal opportunity and affirmative action employer and place of work. We celebrate and support our differences, for the benefit of our employees, our community and the products that we build. 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
