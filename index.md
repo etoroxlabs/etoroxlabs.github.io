@@ -3,7 +3,7 @@ layout: page
 ---
 
 <h1>Senior Software Developer</h1>
-**Apply before 31st of December 2020**. We accept applications and interview on a rolling basis.
+**Apply before 30th of September 2020**. We accept applications and interview on a rolling basis.
 <br>
 <br>
 ## Life at eToroX Labs
