@@ -10,22 +10,23 @@ layout: page
 <div class="row">
   <div class="col-sm-6">
     <p>
-      We are seeking senior software developers with experience or abilities in product and project management to join our team in Copenhagen. The team currently consists of four developers, some of us have an academic specialization at the level of a master’s degree, Ph.D. and postdoc - others are experienced in product development or work as full stack developers.
+      We are seeking senior software developers with experience and competencies in product and project management to join our team in Copenhagen. Our team currently consists of four software developers. Some of us have an academic specialization at the level of a master’s degree, Ph.D. and postdoc - others are experienced in product development or work as full stack developers.
     </p>
     <p>
-      You will work primarily out of the danish offices in Copenhagen, but will have the opportunities (not a requirement) to travel and work from other branch offices such as Asia, China or within Europe on specific projects. We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products.
-      We work primarily on a project-oriented basis which can, occasionally, get hectic. For this reason, we value applicants who are ready and capable to take initiative and end-to-end responsibility. 
+      You will work primarily out of the danish offices in Copenhagen, based on the south campus of the University of Copenhagen.  
+      We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products.
+      We work primarily on a project-oriented basis which can, occasionally, get hectic. For this reason, we value applicants who are ready and capable to take     initiative and end-to-end responsibility of your tasks. 
     </p>
   </div>
   <div class="col-sm-6">
     <p>
-      Due to the innovative and research-based nature of our work, you will work side-by-side with academics from top research institutions and produce solutions at the bleeding edge of financial technologies. Working at eToroX Labs tends to be research intensive and thus requires the ability to absorb and apply large quantities of new knowledge, while running fast towards ambitious deadlines.
+      Due to the innovative and research-based nature of our work, you will work side-by-side with academics from top research institutions and produce solutions at the bleeding edge of financial technologies. Working at eToroX Labs tends to be research intensive and thus requires the ability to absorb and apply large quantities of new knowledge, while occasionally running fast towards ambitious deadlines. Our team is responsible for multiple key projects for the eToro Group, the majority of which revo
     </p>
     <p>
       Needless to say, an analytical mindset and the termination to go above and beyond when solving difficult problems are highly valued.
     </p>
     <p>
-      We are closely connected to the Department of Computer Science at the University of Copenhagen, ITU and Copenhagen Business School and occasionally publish the results of our work in leading journals and conference proceedings. If you have considered a PhD or similar research position in distributed systems or equivalent, we are happy to help you towards this goal. For eligible candidates, we have the opportunity to offer Industrial PhD programmes. 
+      We are closely connected to the Department of Computer Science at the University of Copenhagen, ITU and Copenhagen Business School and occasionally publish the results of our work in leading journals and conference proceedings. If you have considered a PhD or similar research position in distributed financial arhchitecture, Decentralized financial applications or equivalent, we are happy to help you towards this goal. For eligible candidates, we have the opportunity to apply for an Industrial PhD programme as an extention of your employment. 
     </p>
   </div>
 </div>
@@ -36,7 +37,7 @@ layout: page
 <div class="row">
   <div class="col-sm-6">
     <h3>Responsibilities</h3>
-    <p>As a senior developer at eToroX labs, you will be faced with a number of challenges on a daily basis. Our work typically involves the following.</p>
+    <p>As a senior developer at eToroX labs, you will be faced with a broad number of challenges on a daily basis. Our work typically involves the following.</p>
     <ul>
       <li><p>Developing novel applications of blockchain technologies within fintech and open finance</p></li>
       <li><p>Devising architectures of distributed systems</p></li>
@@ -47,7 +48,7 @@ layout: page
   </div>
   <div class="col-sm-6">
     <h3>Preferred qualifications</h3>
-    <p>To excel as a senior developer at eToroX Labs, the following qualifications are preferred.</p>
+    <p>To excel as a senior developer at eToroX Labs, the following qualifications and characteristics are preferred.</p>
     <ul>
       <li><p>Experience with or interest in finance and trading systems</p></li>
       <li><p>A passion for distributed computing and blockchain-related technologies</p></li>
@@ -58,7 +59,16 @@ layout: page
       <li><p>Experience with Blockchain/DLT and smart contracts is a plus</p></li>
       <li><p>Strong English communication skills, both spoken and written</p></li>
       <li><p>Social personality and enjoys working with others</p></li>
-    </ul>
+      </ul>
+    <p>Experience in any of the following areas is appreaciated:</p>
+      <ul>
+        <li><p>Solidity and knowledge/experience with EVM semantics and Smart Contract Design</p></li>
+        <li><p>Apache Kafka</p></li>
+        <li><p>Google Cloud Solutions</p></li>
+        <li><p>Kubernetes with Helm</p></li>
+        <li><p>Functional Programming or experience with Programming Language Design</p></li>
+        <li><p>Solidity and knowledge/experience with EVM semantics and Smart Contract Design</p></li>
+      </ul>
   </div>
 </div>
 
@@ -72,7 +82,7 @@ layout: page
       eToroX Labs is a research and development arm of the international trading platform and multi-asset brokerage company, eToro. For over a decade, eToro has been driven by a clear vision: To open the global markets for everyone to trade and invest, in a simple and transparent way.
     </p>
     <p>
-      With the recent launch of the cryptocurrency exchange eToroX, eToro made another great leap towards introducing transparency and openness in financial markets. 
+      With the recent launch of the Institutional cryptocurrency exchange eToroX, eToro made another leap towards introducing transparency and openness in financial markets. 
     </p>
   </div>
   <div class="col-sm-6">
@@ -94,7 +104,7 @@ At eToroX Labs, our most recent releases includes:
 <br>
 
 ## Get in touch!
-Reach out to [omri@etorox.com](mailto:omri@etorox.com), [johannes@etorox.com](mailto:johannes@etorox.com) or [peterje@etorox.com](mailto:peterje@etorox.com) with an application. Please write a few lines about yourself and attach an updated copy of your CV. 
+Reach out to [omriro@etoro.com](mailto:omri@etorox.com), [johannesje@etoro.com](mailto:johannesje@etoro.com) or [peterje@etoro.com](mailto:peterje@etoro.com) with an application. Please write a few lines about yourself and tell us about a project that you are proud of having been part of. Please attach an updated copy of your CV as well.
 
 If you have worked in a similar research intensive environment, where you have proven yourself by thinking on your feet and solving advanced problems in a field that was new to you, please do impress us by telling us about it. This could be from working in a start-up or in a similar position in which you acquired product ownership responsibilities. 
 
