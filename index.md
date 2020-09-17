@@ -10,20 +10,16 @@ layout: page
 <div class="row">
   <div class="col-sm-6">
     <p>
-      We are seeking senior software developers with experience and competencies in product and project management to join our team in Copenhagen. Our team currently consists of four software developers. Some of us have an academic specialization at the level of a master’s degree, Ph.D. and postdoc - others are experienced in product development or work as full stack developers.
+      We are seeking senior software developers to join our team in Copenhagen. Our team currently consists of four software developers. Some of us have an academic specialization at the level of a master’s degree, Ph.D. and Postdoc - others are experienced in product development or work as full stack developers.
     </p>
     <p>
-      You will work primarily out of the danish offices in Copenhagen, based on the south campus of the University of Copenhagen.  
-      We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products.
-      We work primarily on a project-oriented basis which can, occasionally, get hectic. For this reason, we value applicants who are ready and capable to take     initiative and end-to-end responsibility of your tasks. 
+      You will work primarily out of the danish offices in Copenhagen, based on the south campus of the University of Copenhagen. We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products. We work primarily on a project-oriented basis in which we value clear and transparent communication. For this reason, we appreciate applicants who are ready and capable to take initiative and end-to-end responsibility of your tasks.
     </p>
   </div>
   <div class="col-sm-6">
     <p>
-      Due to the innovative and research-based nature of our work, you will work side-by-side with academics from top research institutions and produce solutions at the bleeding edge of financial technologies. Working at eToroX Labs tends to be research intensive and thus requires the ability to absorb and apply large quantities of new knowledge, while occasionally running fast towards ambitious deadlines. Our team is responsible for multiple key projects for the eToro Group, the majority of which revo
-    </p>
-    <p>
-      Needless to say, an analytical mindset and the termination to go above and beyond when solving difficult problems are highly valued.
+      Due to the innovative and research-based nature of our work, you will work side-by-side with software developers, product managers and academics and produce solutions at the bleeding edge of financial technologies. Our work covers a wide range of topics, from building and supporting the integration of institutional trading infrastructure to designing and deploying novel DeFi architecture.
+      Working at eToroX Labs tends to be research intensive and thus requires the ability to absorb and apply large quantities of new knowledge, while occasionally running fast towards ambitious deadlines. 
     </p>
     <p>
       We are closely connected to the Department of Computer Science at the University of Copenhagen, ITU and Copenhagen Business School and occasionally publish the results of our work in leading journals and conference proceedings. If you have considered a PhD or similar research position in distributed financial arhchitecture, Decentralized financial applications or equivalent, we are happy to help you towards this goal. For eligible candidates, we have the opportunity to apply for an Industrial PhD programme as an extention of your employment. 
@@ -39,11 +35,11 @@ layout: page
     <h3>Responsibilities</h3>
     <p>As a senior developer at eToroX labs, you will be faced with a broad number of challenges on a daily basis. Our work typically involves the following.</p>
     <ul>
-      <li><p>Developing novel applications of blockchain technologies within fintech and open finance</p></li>
-      <li><p>Devising architectures of distributed systems</p></li>
+      <li><p>Developing novel applications of blockchain technologies within fintech and open finance, often with emphasis on DeFi</p></li>
+      <li><p>Researching and building for the most recent implementations, forks or updates of the major blockchains</p></li>
       <li><p>Keeping up to date with technological developments, evaluating and presenting their potential utility</p></li>
       <li><p>Documenting features and design tradeoffs of proposed and implemented solutions</p></li>
-      <li><p>Contributing to a friendly atmosphere</p></li>
+      <li><p>Contributing to a friendly and open atmosphere, we often have team nights and go for burgers together after work</p></li>
     </ul>
   </div>
   <div class="col-sm-6">
