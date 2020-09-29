@@ -3,7 +3,7 @@ layout: page
 ---
 
 <h1>Senior Software Developer</h1>
-**Apply before 30th of September 2020**. We accept applications and interview on a rolling basis.
+**Apply before 15th of October 2020**. We accept applications and interview on a rolling basis.
 <br>
 <br>
 ## Life at eToroX Labs
@@ -13,16 +13,16 @@ layout: page
       We are seeking senior software developers to join our team in Copenhagen. Our team currently consists of four software developers. Some of us have an academic specialization at the level of a master’s degree, Ph.D. and Postdoc - others are experienced in product development or work as full stack developers.
     </p>
     <p>
-      You will work primarily out of the danish offices in Copenhagen, based on the south campus of the University of Copenhagen. We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products. We work primarily on a project-oriented basis in which we value clear and transparent communication. For this reason, we appreciate applicants who are ready and capable to take initiative and end-to-end responsibility of your tasks.
+      You will work primarily out of the danish offices in Copenhagen, based on the south campus of the University of Copenhagen. We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products. We work primarily on a project-oriented basis in which we value clear and transparent communication. For this reason, we appreciate applicants who are ready and capable to take initiative and end-to-end responsibility.
     </p>
   </div>
   <div class="col-sm-6">
     <p>
-      Due to the innovative and research-based nature of our work, you will work side-by-side with software developers, product managers and academics and produce solutions at the bleeding edge of financial technologies. Our work covers a wide range of topics, from building and supporting the integration of institutional trading infrastructure to designing and deploying novel DeFi architecture.
+      Due to the innovative and research-based nature of our work, you will work side-by-side with software developers, product managers and academics and produce solutions at the bleeding edge of financial technologies. Our work covers a wide range of topics, from building and supporting the integration of institutional trading infrastructure to designing and deploying novel DeFi architecture. 
       Working at eToroX Labs tends to be research intensive and thus requires the ability to absorb and apply large quantities of new knowledge, while occasionally running fast towards ambitious deadlines. 
     </p>
     <p>
-      We are closely connected to the Department of Computer Science at the University of Copenhagen, ITU and Copenhagen Business School and occasionally publish the results of our work in leading journals and conference proceedings. If you have considered a PhD or similar research position in distributed financial arhchitecture, Decentralized financial applications or equivalent, we are happy to help you towards this goal. For eligible candidates, we have the opportunity to apply for an Industrial PhD programme as an extention of your employment. 
+      We are closely connected to the Department of Computer Science at the University of Copenhagen, ITU and Copenhagen Business School and occasionally publish the results of our work in leading journals and conference proceedings. If you have considered a PhD or similar research position in distributed financial arhchitecture, Decentralized financial applications or equivalent, we are happy to help you towards this goal. For eligible candidates, we have the opportunity to apply for an Industrial PhD programme, as an extention of your employment. 
     </p>
   </div>
 </div>
@@ -100,11 +100,11 @@ At eToroX Labs, our most recent releases includes:
 <br>
 
 ## Get in touch!
-Reach out to [omriro@etoro.com](mailto:omri@etorox.com), [johannesje@etoro.com](mailto:johannesje@etoro.com) or [peterje@etoro.com](mailto:peterje@etoro.com) with an application. Please write a few lines about yourself and tell us about a project that you are proud of having been part of. Please attach an updated copy of your CV as well.
+Send us a mail on: [omriro@etoro.com](mailto:omri@etorox.com), [johannesje@etoro.com](mailto:johannesje@etoro.com) and [peterje@etoro.com](mailto:peterje@etoro.com) with an application. Please write a few lines about yourself and tell us about a project that you are proud of having been part of. Please attach an updated copy of your CV as well.
 
-If you have worked in a similar research intensive environment, where you have proven yourself by thinking on your feet and solving advanced problems in a field that was new to you, please do impress us by telling us about it. This could be from working in a start-up or in a similar position in which you acquired product ownership responsibilities. 
+If you have worked in a similarly research intensive environment, where you have proven yourself by thinking on your feet and solving difficult problems in a field that was new to you, please do impress us by telling us about it. This could be from working in a start-up or in a similar position in which you acquired product ownership responsibilities. 
 
-We welcome applications from candidates with good academic credentials or a proven track record of success, in fintech or related fields, but do not discriminate significantly on the background of grades if you can show us your secret power and you walk us through a your approach to problem solving. 
+We welcome applications from candidates with good academic credentials or a proven track record of success in fintech and beyond, but do not discriminate significantly on the background of grades or educational experience. If you can show us your super-power and you walk us through how you approach problem solving by creating structure, clarity and bringing great energy and the motivation to build the future of finance, we are very interested in hearing from you.  
 
 eToro is proud to be an equal opportunity and affirmative action employer and place of work. We celebrate and support our differences, for the benefit of our employees, our community and the products that we build. 
 
