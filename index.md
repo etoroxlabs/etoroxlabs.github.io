@@ -3,17 +3,17 @@ layout: page
 ---
 
 <h1>Senior Software Developer</h1>
-**Apply before 15th of October 2020**. We accept applications and interview on a rolling basis.
+**Apply before 15th of November 2020**. We accept applications and interview on a rolling basis.
 <br>
 <br>
 ## Life at eToroX Labs
 <div class="row">
   <div class="col-sm-6">
     <p>
-      We are seeking senior software developers to join our team in Copenhagen. Our team currently consists of four software developers. Some of us have an academic specialization at the level of a master’s degree, Ph.D. and Postdoc - others are experienced in product development or work as full stack developers.
+      We are seeking senior software developers to join our team of four software developers in Copenhagen. We are a diverse team with different backgrounds, some of us have an academic specialization at the level of a master’s degree, Ph.D. and Postdoc - others are experienced in product development or work as full stack developers.
     </p>
     <p>
-      You will work primarily out of the danish offices in Copenhagen, based on the south campus of the University of Copenhagen. We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products. We work primarily on a project-oriented basis in which we value clear and transparent communication. For this reason, we appreciate applicants who are ready and capable to take initiative and end-to-end responsibility.
+      You will work primarily out of the danish offices in Copenhagen, based on the South Campus of the University of Copenhagen (KUA). We cherish a relaxed and informal office atmosphere and believe that task-ownership and intrinsic motivation is key, in producing superior products. We work primarily on a project-oriented basis in which we value clear and transparent communication. For this reason, we appreciate applicants who are ready and capable to take initiative and end-to-end responsibility.
     </p>
   </div>
   <div class="col-sm-6">
@@ -22,7 +22,7 @@ layout: page
       Working at eToroX Labs tends to be research intensive and thus requires the ability to absorb and apply large quantities of new knowledge, while occasionally running fast towards ambitious deadlines. 
     </p>
     <p>
-      We are closely connected to the Department of Computer Science at the University of Copenhagen, ITU and Copenhagen Business School and occasionally publish the results of our work in leading journals and conference proceedings. If you have considered a PhD or similar research position in distributed financial arhchitecture, Decentralized financial applications or equivalent, we are happy to help you towards this goal. For eligible candidates, we have the opportunity to apply for an Industrial PhD programme, as an extention of your employment. 
+      We are closely connected to the Department of Computer Science at the University of Copenhagen, ITU and Copenhagen Business School and occasionally publish the results of our work in leading journals and conference proceedings. If you have considered a PhD, Postdoc or similar research position in the area of distributed financial arhchitecture, decentralized financial applications or the equivalent, we are happy to help you towards this goal. For eligible candidates, we have the opportunity to apply for an industrial PhD or Postdoc programme as an extention of your employment, through which you will gain academic credentials while carrying out your work at eToroX Labs. 
     </p>
   </div>
 </div>
