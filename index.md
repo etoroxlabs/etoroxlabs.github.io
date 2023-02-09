@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-**Apply before 1st of March 2023**. We accept applications and interview on a rolling basis.
+**Apply before 1st of April 2023**. We accept applications and interview on a rolling basis.
 <br>
 <br>
 ## Life at eToro Labs
@@ -69,6 +69,7 @@ layout: page
         <li><p>Modern DeFi primitives and applications on Ethereum, such as Constant Function Market Makers (CFMM), lending protocols and derivatives.</p></li>
         <li><p>Asset exchange protocols such as 0x and SeaPort</p></li>
         <li><p>Knowledge or understanding of L2 solutions such as Optimism, Starkware or Polygon</p></li>
+        <li><p>Functional programming experience and/or programming language design</p></li>
         <li><p>Programming experience in Typescript with Node and Next.js/React</p></li>
         <li><p>Familiarity with DevOps operations, including Kubernetes with Helm, Azure, Jenkins/Pagerduty/Prometheus</p></li>
       </ul>
