@@ -87,7 +87,7 @@ layout: page
   </div>
   <div class="col-sm-6">
     <p>
-      eToro is a fully regulated exchange featuring a number of tokenized digital assets tradeable on the blockchain. At eToro, we believe that we will see the greatest transfer of wealth onto the blockchain within the coming years, and it is our mission to build the infrastructure supporting the open and transparent financial markets of the future.
+      eToro is a fully regulated retail investment platform featuring a number of tokenized digital assets tradeable on the blockchain. At eToro, we believe that we will see the greatest transfer of wealth onto the blockchain within the coming years, and it is our mission to build the infrastructure supporting the open and transparent financial markets of the future.
     </p>
     <p>
       eToro is proud to be an equal opportunity and affirmative action employer and place of work. We celebrate and support our differences, for the benefit of our employees, our community and the products that we build.
