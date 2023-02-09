@@ -52,6 +52,8 @@ layout: page
     </p>
       The key qualifier for a great candidate for the position as Senior Software Developer with us, is being passionate about crypto and motivated by building the future of financial services. We are all learning every day and are committed to supporting the growth of our team members.
     </p>
+  </div>
+  <div class="col-sm-6">
     <p>The following qualifications and abilities are appreciated:</p>
     <ul>
       <li><p>Experience with or interest in finance and trading systems</p></li>
@@ -62,6 +64,8 @@ layout: page
       <li><p>Strong English communication skills, both spoken and written</p></li>
       <li><p>Social personality and enjoys working with others</p></li>
     </ul>
+  </div>
+  <div class="col-sm-6">
     <p>Experience in any of the following areas is appreciated, but not necessary:</p>
       <ul>
         <li><p>Relevant staking operations for Ethereum, Cardano and other Proof-of-stake based blockchains</p></li>
