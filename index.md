@@ -36,7 +36,7 @@ layout: page
     <h3>Responsibilities</h3>
     <p>As a senior developer at eToro labs, you will be faced with a number of challenges on a daily basis. Our work typically involves:</p>
     <ul>
-      <li><p>Developing blockchain based financial applications with emphasis on staking and NFT marketplaces</p></li>
+      <li><p>Developing blockchain based financial applications with emphasis on staking, DeFi and NFT marketplaces</p></li>
       <li><p>Devising architectures of distributed systems</p></li>
       <li><p>Keeping up to date with technological developments, evaluating and presenting their potential utility</p></li>
       <li><p>Documenting features and design trade-offs of proposed and implemented solutions</p></li>
@@ -55,7 +55,7 @@ layout: page
     <p>The following qualifications and abilities are appreciated:</p>
     <ul>
       <li><p>Experience with or interest in finance and trading systems</p></li>
-      <li><p>A passion for distributed computing and blockchain-related technologies, initial experience in staking and nfts is appreciated but not a must-have.</p></li>
+      <li><p>A passion for distributed computing and blockchain-related technologies, initial experience in staking, DeFi and nfts is appreciated but not a must-have.</p></li>
       <li><p>Strong proven programming experience</p></li>
       <li><p>Motivation and the ability to acquire new knowledge while thinking on your feet.</p></li>
       <li><p>The innate ability to structure work by employing a rigorous and methodological approach to problem-solving</p></li>
@@ -66,8 +66,10 @@ layout: page
       <ul>
         <li><p>Relevant staking operations for Ethereum, Cardano and other Proof-of-stake based blockchains</p></li>
         <li><p>Solidity and knowledge/experience with EVM semantics and smart-contract design</p></li>
+        <li><p>Modern DeFi primitives and applications on Ethereum, such as Constant Function Market Makers (CFMM), lending protocols and derivatives.</p></li>
+        <li><p>Asset exchange protocols such as 0x and SeaPort</p></li>
         <li><p>Knowledge or understanding of L2 solutions such as Optimism, Starkware or Polygon</p></li>
-        <li><p>Programming experience in Typescript with Node, Typescript and Next.js/React</p></li>
+        <li><p>Programming experience in Typescript with Node and Next.js/React</p></li>
         <li><p>Familiarity with DevOps operations, including Kubernetes with Helm, Azure, Jenkins/Pagerduty/Prometheus</p></li>
       </ul>
   </div>
